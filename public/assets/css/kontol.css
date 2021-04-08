@@ -1,0 +1,74 @@
+.errorMsg {
+	color: #fff;
+	font-size: 15px;
+	font-family: Teko;
+	text-align: center;
+	display: none;
+	margin: 15px auto -5px auto;
+	text-transform: uppercase;
+}
+.popup-box {
+	    width: 320px;
+	    margin-top: 50%;
+	}
+	.btn-anjir {
+    background: #000000;
+    width: 30%;
+    height: auto;
+    padding: 8px;
+    margin-bottom: 15px;
+    color: #fff;
+    font-family: 'Teko';
+    border: 1px solid #fff;
+    border-radius: 7px;
+    outline: none;
+    display: inline-block;
+    cursor: pointer;
+}
+.popup {
+	width:100%;
+	height:100%;
+	position:fixed;
+	top:0;
+	left:0;
+	z-index:9999;
+	background-color:rgba(0, 0, 0, 0.4);
+}
+.nav-popup {
+	background: #000000;
+	height: auto;
+	border: 4px;
+	padding:10px;
+	border-bottom: 1px solid #fff;
+	border-radius:7px;
+	border-bottom-left-radius:0px;
+	border-bottom-right-radius:0px;
+}
+.nav-popup-title {
+	color: #fff;
+	font-size: 25px;
+	font-family: Teko;
+	text-align: center;
+	text-transform: uppercase;
+}
+.popup-box {
+    background: #000000;
+	width: 375px;
+	height: auto;
+	position: relative;
+	margin: 50px auto;
+	margin-top: 15%;
+	text-align: center;
+	font-family:'Teko';
+	color:#000;
+	border: 1px solid #fff;
+	border-radius:7px;
+}
+.popup-confirm {
+	width: 100%;
+}
+.popup-confirm i {
+	color: #fff;
+	font-size: 60px;
+	text-align: center;
+}
